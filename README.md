@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alouiyaz78
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science ,data analyse,big data..
 - 🌱 I’m currently learning phyton and R
 - 💞️ I’m looking to collaborate on new project in data analyse
 - 📫 How to reach me at alouiyaz78@gmail.com
